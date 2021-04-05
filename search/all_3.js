@@ -44,7 +44,8 @@ var searchData=
   ['dbustypetrait_3c_20uint64_5ft_20_3e_95',['DBusTypeTrait&lt; uint64_t &gt;',['../d0/dd7/structotbr_1_1DBus_1_1DBusTypeTrait_3_01uint64__t_01_4.html',1,'otbr::DBus']]],
   ['dbustypetrait_3c_20uint8_5ft_20_3e_96',['DBusTypeTrait&lt; uint8_t &gt;',['../d3/da2/structotbr_1_1DBus_1_1DBusTypeTrait_3_01uint8__t_01_4.html',1,'otbr::DBus']]],
   ['destroy_97',['Destroy',['../da/ddc/classotbr_1_1Mdns_1_1Publisher.html#a764c8e33ecdf355a4eaf60292e9484c2',1,'otbr::Mdns::Publisher']]],
-  ['diag2jsonstring_98',['Diag2JsonString',['../d0/d6c/namespaceotbr_1_1rest_1_1Json.html#a1d5fb81fc1a65c3d90406d6e1e9c5f35',1,'otbr::rest::Json']]],
-  ['diaginfo_99',['DiagInfo',['../da/dfd/structotbr_1_1rest_1_1DiagInfo.html',1,'otbr::rest']]],
-  ['dumpdbusmessage_100',['DumpDBusMessage',['../df/de9/namespaceotbr_1_1DBus.html#ae1ff1319b519ce23b219248e1b1e57f0',1,'otbr::DBus']]]
+  ['detach_98',['Detach',['../d4/d44/classotbr_1_1agent_1_1ThreadHelper.html#a7b818790e83d9ad3a330a80f96bc938f',1,'otbr::agent::ThreadHelper']]],
+  ['diag2jsonstring_99',['Diag2JsonString',['../d0/d6c/namespaceotbr_1_1rest_1_1Json.html#a1d5fb81fc1a65c3d90406d6e1e9c5f35',1,'otbr::rest::Json']]],
+  ['diaginfo_100',['DiagInfo',['../da/dfd/structotbr_1_1rest_1_1DiagInfo.html',1,'otbr::rest']]],
+  ['dumpdbusmessage_101',['DumpDBusMessage',['../df/de9/namespaceotbr_1_1DBus.html#ae1ff1319b519ce23b219248e1b1e57f0',1,'otbr::DBus']]]
 ];
