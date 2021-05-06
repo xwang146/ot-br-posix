@@ -10,7 +10,7 @@ var searchData=
   ['connect_818',['Connect',['../d3/d3f/classotbr_1_1Web_1_1OpenThreadClient.html#a874758a90cc13e74005caab2f25f016a',1,'otbr::Web::OpenThreadClient']]],
   ['connection_819',['Connection',['../d4/db3/classotbr_1_1rest_1_1Connection.html#a20e579c9ce4871434dc979fb3f317803',1,'otbr::rest::Connection']]],
   ['connectivity2jsonstring_820',['Connectivity2JsonString',['../d0/d6c/namespaceotbr_1_1rest_1_1Json.html#a4c92d39ff1ddc4bfd5a6c5b869342d4e',1,'otbr::rest::Json']]],
-  ['controlleropenthread_821',['ControllerOpenThread',['../db/d17/classotbr_1_1Ncp_1_1ControllerOpenThread.html#a9ce3ebb1eac5e301f6db36b59af22458',1,'otbr::Ncp::ControllerOpenThread']]],
+  ['controlleropenthread_821',['ControllerOpenThread',['../db/d17/classotbr_1_1Ncp_1_1ControllerOpenThread.html#a07b5a202dcb1c7b41a1ac246dcdf7085',1,'otbr::Ncp::ControllerOpenThread']]],
   ['convertfromdbuserrorname_822',['ConvertFromDBusErrorName',['../df/de9/namespaceotbr_1_1DBus.html#a01663aee099dd6dffd4ea608f9cf5473',1,'otbr::DBus']]],
   ['converttodbuserrorname_823',['ConvertToDBusErrorName',['../df/de9/namespaceotbr_1_1DBus.html#a58c42079fc5b54e90b4246dbbd93a221',1,'otbr::DBus']]],
   ['copyfrom_824',['CopyFrom',['../d2/dfe/classotbr_1_1Ip6Address.html#a2b0c6e5c8b3ddfaf19d086241a89acd3',1,'otbr::Ip6Address::CopyFrom(const struct sockaddr_in6 &amp;aSockAddr)'],['../d2/dfe/classotbr_1_1Ip6Address.html#aeb7c2b8de4f8a1a15efd0acf0d18ca9c',1,'otbr::Ip6Address::CopyFrom(const struct in6_addr &amp;aIn6Addr)']]],
